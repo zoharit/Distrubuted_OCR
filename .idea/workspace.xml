@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LocalApp:jar" />
+      <artifact name="manager:jar" />
+      <artifact name="worker:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e770611a-5101-4d2e-87c8-2f7f575be9f7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/worker/target/" />
+    <ignored path="$PROJECT_DIR$/manager/target/" />
+    <ignored path="$PROJECT_DIR$/LocalApp/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ass1$worker__1_.ic" NAME="worker (1) Coverage Results" MODIFIED="1542837804618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1276390167">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="4" />
+          <entry key="classpath" value="1" />
+          <entry key="csv" value="1" />
+          <entry key="html" value="2" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="137" />
+          <entry key="png" value="2" />
+          <entry key="project" value="1" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="33" />
+          <entry key="xsd" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="Eclipse" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="137" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="html" value="85" />
+          <entry key="java" value="18985" />
+          <entry key="txt" value="5" />
+          <entry key="xml" value="214" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="85" />
+          <entry key="JAVA" value="18985" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="XML" value="214" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LocalApp/src/main/java/LocalApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="108" column="51" selection-start-line="108" selection-start-column="51" selection-end-line="108" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager/src/main/java/Download_task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/dsp/common.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="114" column="5" lean-forward="true" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager/src/main/java/ManagerTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="94" column="55" selection-start-line="94" selection-start-column="55" selection-end-line="94" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager/src/main/java/upload_task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/worker/src/main/java/worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-986">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager/src/main/java/manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s</find>
+      <find>url</find>
+      <find>down</find>
+      <find>result_queue_url</find>
+      <find>re</find>
+      <find>VisibilityTimeout</find>
+      <find>downlo</find>
+      <find>saveim</find>
+      <find>doocr</find>
+      <find>save</find>
+      <find>DownloadImage</find>
+      <find>scr</find>
+      <find>getUserDataScript</find>
+      <find>join</find>
+      <find>scri</find>
+      <find>client</find>
+      <find>scrip</find>
+      <find>rec</find>
+      <find>createQueueRequest</find>
+      <find>ec2.</find>
+      <find>ec2</find>
+      <find>pool</find>
+      <find>submit</find>
+      <find>with</find>
+      <find>visability_timeout</find>
+      <find>ec2Client</find>
+      <find>message</find>
+      <find>create_worker_pool</find>
+      <find>initQueues</find>
+      <find>ami</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa10416.17336/AppLocal.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa10416.35966/AppLocal.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa10416.25156/AppLocal.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa10416.31943/AppLocal.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa2032.44240/AppLocal.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/common.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/dsp/test/common.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa5528.374/Manager.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/task.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/Task.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/MannagerTask.java" />
+        <option value="$PROJECT_DIR$/manager/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/LocalApp/pom.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa16648.10871/WorkerBootstrap.java" />
+        <option value="$PROJECT_DIR$/ass1.html" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/Sync_File.java" />
+        <option value="$PROJECT_DIR$/out/artifacts/LocalApp_jar/output.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa11916.12652/Manager.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa11916.21490/Worker.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.49835/WorkerBootstrap.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.42085/AppLocal.java" />
+        <option value="$PROJECT_DIR$/worker/src/main/java/workerSync.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.46156/Worker.java" />
+        <option value="$PROJECT_DIR$/LocalApp/src/main/java/upload_task.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/upload_task.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa6332.13204/ManagerTask.java" />
+        <option value="$PROJECT_DIR$/out/artifacts/LocalApp_jar/text.images.txt" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/Download_task.java" />
+        <option value="$PROJECT_DIR$/worker/pom.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa10972.31199/WorkerBootstrap.java" />
+        <option value="$PROJECT_DIR$/worker/src/main/java/worker.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/dsp/common.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/manager.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/ManagerTask.java" />
+        <option value="$PROJECT_DIR$/LocalApp/src/main/java/LocalApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="worker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="LocalApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="LocalApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="LocalApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="LocalApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="worker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ass1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ass1" type="462c0819:PsiDirectoryNode" />
+              <item name="worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ass1" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543494339609" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21264368" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/worker/src/main/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\ass1\manager\src\main\resources" />
+      <recent name="C:\Users\user\IdeaProjects\ass1\LocalApp\src\main\resources" />
+      <recent name="C:\Users\user\IdeaProjects\ass1\worker\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.worker (1)">
+    <configuration name="LocalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LocalApp" />
+      <module name="LocalApp" />
+      <option name="PROGRAM_PARAMETERS" value="tsa 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manager" />
+      <module name="manager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="worker (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="worker" />
+      <module name="worker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="worker" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="worker" />
+      <module name="LocalApp" />
+      <option name="PROGRAM_PARAMETERS" value="text.images.txt 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: LocalApp" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/LocalApp" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="LocalApp" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: LocalApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: java" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/LocalApp/src/main/java" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="LocalApp" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.worker" />
+      <item itemvalue="Application.worker (1)" />
+      <item itemvalue="Application.LocalApp" />
+      <item itemvalue="Cucumber java.All Features in: LocalApp" />
+      <item itemvalue="Cucumber java.All Features in: java" />
+      <item itemvalue="Application.manager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.worker (1)" />
+        <item itemvalue="Application.manager" />
+        <item itemvalue="Application.LocalApp" />
+        <item itemvalue="Cucumber java.All Features in: java" />
+        <item itemvalue="Cucumber java.All Features in: LocalApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e770611a-5101-4d2e-87c8-2f7f575be9f7" name="Default Changelist" comment="" />
+      <created>1542042491106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542042491106</updated>
+      <workItem from="1542042492408" duration="4694000" />
+      <workItem from="1542091585052" duration="146000" />
+      <workItem from="1542099435779" duration="25672000" />
+      <workItem from="1542185546011" duration="18571000" />
+      <workItem from="1542220975966" duration="10911000" />
+      <workItem from="1542271732046" duration="33647000" />
+      <workItem from="1542320377417" duration="278000" />
+      <workItem from="1542322325183" duration="14168000" />
+      <workItem from="1542474953868" duration="495000" />
+      <workItem from="1542529221146" duration="38211000" />
+      <workItem from="1542618334285" duration="61199000" />
+      <workItem from="1542741470074" duration="19462000" />
+      <workItem from="1542802091664" duration="37725000" />
+      <workItem from="1542881783923" duration="19172000" />
+      <workItem from="1543399180270" duration="5288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in___idea - 2018.11.12 at 21h 15m 47s.xml">
+      <configuration name="All Features in: .idea" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in___idea - 2018.11.12 at 21h 17m 33s.xml">
+      <configuration name="All Features in: .idea" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__LocalApp - 2018.11.13 at 13h 31m 53s.xml">
+      <configuration name="All Features in: LocalApp" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__worker - 2018.11.16 at 11h 08m 38s.xml">
+      <configuration name="All Features in: worker" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__LocalApp - 2018.11.18 at 13h 40m 25s.xml">
+      <configuration name="All Features in: LocalApp" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__LocalApp - 2018.11.18 at 13h 40m 35s.xml">
+      <configuration name="All Features in: LocalApp" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__java - 2018.11.18 at 13h 41m 11s.xml">
+      <configuration name="All Features in: java" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="289639000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49822065" visible="true" weight="0.21781376" />
+      <window_info id="Structure" order="6" sideWeight="0.5017794" side_tool="true" weight="0.16194332" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.13167259" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.24199288" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.18327402" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3291815" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.28421053" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49822065" visible="true" weight="0.21781376" />
+      <window_info id="Structure" order="6" sideWeight="0.5017794" side_tool="true" weight="0.16194332" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.13167259" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.24199288" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.18327402" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3291815" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.28421053" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.43613/Manager.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.32992/Manager.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.46156/Worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6332.13204/ManagerTask.java" />
+    <entry file="file://$USER_HOME$/Desktop/assignment-1/localapp/LocalAppListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="48" column="67" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/src/main/java/ocrbrep.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.47368/Manager.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7704.43414/Manager.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="629" column="1" selection-start-line="629" selection-start-column="1" selection-end-line="629" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/LocalApp_jar/text.images.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17224.33211/ManagerTask.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17224.35664/manager.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17224.39459/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17224.5402/LocalApp.java" />
+    <entry file="file://$PROJECT_DIR$/worker/src/main/java/workerSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14796.42212/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14796.42380/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14796.42072/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12100.33676/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11392.1658/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIb3528.29164/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6104.39134/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1328.43724/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12276.46433/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9964.1025/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11764.6053/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8672.8440/worker.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8672.8300/workerSync.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12032.11390/worker.java" />
+    <entry file="file://$PROJECT_DIR$/manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/asprise/ocr/java-ocr-api/15.3.0.3/java-ocr-api-15.3.0.3-sources.jar!/com/asprise/ocr/Ocr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="343" column="24" lean-forward="true" selection-start-line="343" selection-start-column="24" selection-end-line="343" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10972.30922/InsertToTaskQueueTask.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10972.31199/WorkerBootstrap.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10972.26937/WorkerBootstrap.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4216.45006/ManagerBootstrap.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4216.29113/AppLocal.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="143" column="10" lean-forward="true" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-sqs/1.11.447/aws-java-sdk-sqs-1.11.447-sources.jar!/com/amazonaws/services/sqs/model/QueueAttributeName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14380.32761/WorkerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14380.34213/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="804" column="71" selection-start-line="804" selection-start-column="56" selection-end-line="804" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/Sync_File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="123" column="7" lean-forward="true" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/Download_task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/upload_task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/src/main/java/worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/dsp/common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="114" column="5" lean-forward="true" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/ManagerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="94" column="55" selection-start-line="94" selection-start-column="55" selection-end-line="94" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LocalApp/src/main/java/LocalApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="108" column="51" selection-start-line="108" selection-start-column="51" selection-end-line="108" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>worker:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21264368" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>worker</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21264368" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.amazonaws:aws-java-sdk-acm:1.11.447</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

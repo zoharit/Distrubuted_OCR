@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocalApp/LocalApp.iml" filepath="$PROJECT_DIR$/LocalApp/LocalApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ass1.iml" filepath="$PROJECT_DIR$/.idea/ass1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker/worker.iml" filepath="$PROJECT_DIR$/worker/worker.iml" />
+    </modules>
+  </component>
+</project>
